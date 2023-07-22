@@ -10,7 +10,6 @@
 <br/>
 <br/>
 <br/>
-c
 
 # 📚 Frameworks and Libraries
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -28,7 +27,7 @@ c
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/php-%230175C2.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/python-%23239120.svg?style=for-the-badge&logo=python-&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/python-%23239120.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <br/>
 <br/>
 <br/>
