@@ -3,10 +3,7 @@
 <div align="center">
 
 </div>
-<div align="center">
-  <img  src="https://github.com/BedoNassef71/BedoNassef71/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 </h1>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bedonassef71&show_icons=true&theme=gruvbox"/>
 <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedonassef71&layout=compact"/>
@@ -44,3 +41,8 @@
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+
+<div align="center">
+  <img  src="https://github.com/BedoNassef71/BedoNassef71/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
