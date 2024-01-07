@@ -33,13 +33,14 @@
 <img align="left" src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/python-%23404d59.svg?style=for-the-badge&logo=python&logoColor=blue"/>
 <img align="left" src="https://img.shields.io/badge/java-%230175C2.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/scala-%23E0234E.svg?style=for-the-badge&logo=scala&logoColor=white"/>
 <br/>
 <br/>
 <br/>
 
 # 💾 Databases and ORM
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=red"/>
 
 
 <div align="center">
